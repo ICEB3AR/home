@@ -6,22 +6,21 @@ Github의 stat 캘린더는 개발 욕구를 증진시켜주는 역할도 하며
 
 이제 티스토리 위젯으로 포스팅 캘린더를 만나보세요 😃
 
-<img src='images/preview.png' width='80%'>
-<img src='images/preview_detail.png' width='50%' >
+<img class='moudle' src='https://i.imgur.com/uSGxgfz.png' width='80%'>
+<img src='https://i.imgur.com/Bf3VZb6.png' width='50%' >
 
-![123](images/preview.png)
 [예시 페이지](https://dev-pengun.tistory.com/)
 
-# :zap: 적용방법
+# ⚡️ 적용방법
 
 > 현재 Book Club 스킨에서만 적용 가능합니다.
 
-<img src='images/home_setting.png' width='80%'>
+<img src='https://i.imgur.com/xYpZvt8.png' width='80%'>
 
 ### 1. 스킨 편집 메뉴 > 홈 설정 > 홈 화면 글 수 30으로 설정
 -------------------
 
-<img src='images/html_setting.png' width='80%'>
+<img src='https://i.imgur.com/PfWyf0b.png' width='80%'>
 
 ### 2. 스킨 편집 메뉴 > html 편집 > 원하는 위치에 코드 삽입
 
@@ -36,6 +35,6 @@ Github의 stat 캘린더는 개발 욕구를 증진시켜주는 역할도 하며
 </div>		
 ```
 -------------------
-# :interrobang: 컨트리뷰트 또는 버그제보
+# ⁉️ 컨트리뷰트 또는 버그제보
 
 [Github Issue](https://github.com/ICEB3AR/tistory-calendar/issues)로 버그, 아이디어를 제보해주세요!
